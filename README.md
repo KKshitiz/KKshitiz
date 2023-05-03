@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kkshitiz&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="kkshitiz" /> </p>
 
-## 📊 GitHub Stats
+## 👦🏻 About me
 [![trophy](https://github-profile-trophy.vercel.app/?username=kkshitiz&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🌱 I’m currently learning **React**
@@ -106,7 +106,7 @@
 ![Reading books](https://img.shields.io/badge/%F0%9F%93%96%20Reading_Books-4EAA25?style=for-the-badge)
 ![Playing keyboard](https://img.shields.io/badge/%F0%9F%8E%B9%20Playing_keyboard-F24E1E?style=for-the-badge)
 
-## Connect with me
+## 🫱🏼‍🫲🏼 Connect with me
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thekshitizkamal)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KKshitiz)
@@ -114,6 +114,10 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skilite007@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@skilite007)
 
+## 🏆 My github trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=kkshitiz&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 📊 Github stats
 <div style="display:flex;height:100px">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kkshitiz&count_private=true&show_icons=true&locale=en&layout=compact" alt="kkshitiz" width="25%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kkshitiz&" alt="kkshitiz" width="35%"/>
