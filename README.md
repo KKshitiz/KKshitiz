@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kshitiz</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kkshitiz&label=Profile%20views&color=0e75b6&style=flat" alt="kkshitiz" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kkshitiz&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="kkshitiz" /> </p>
 
 ## 📊 GitHub Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=kkshitiz&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
@@ -99,6 +99,12 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Codesandbox](https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white)
+
+## 😁 Hobbies
+
+![Gymming](https://img.shields.io/badge/%F0%9F%92%AA%F0%9F%8F%BB%20Gymming-0052CC?style=for-the-badge)
+![Reading books](https://img.shields.io/badge/%F0%9F%93%96%20Reading_Books-4EAA25?style=for-the-badge)
+![Playing keyboard](https://img.shields.io/badge/%F0%9F%8E%B9%20Playing_keyboard-F24E1E?style=for-the-badge)
 
 ## Connect with me
 
