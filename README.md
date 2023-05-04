@@ -4,10 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kkshitiz&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="kkshitiz" /> </p>
 
 ## 👦🏻 About me
-[![trophy](https://github-profile-trophy.vercel.app/?username=kkshitiz&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🌱 I’m currently learning **React**
-- 👯 I’m looking to collaborate on **Flutter**
+- 🌱 I’m currently working on **React** and **Nodejs** projects
+- 👯 I’m looking to collaborate on some challenging **Flutter** projects
 
 ## 💻 Technologies I Work With
 
