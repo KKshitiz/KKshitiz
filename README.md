@@ -132,6 +132,6 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/KKshitiz/flutter-art/issues/2) in [KKshitiz/flutter-art](https://github.com/KKshitiz/flutter-art)
+1. ❗ Opened issue [#127](https://github.com/gjtorikian/markdowntutorial.com/issues/127) in [gjtorikian/markdowntutorial.com](https://github.com/gjtorikian/markdowntutorial.com)
 2. ❗ Opened issue [#5](https://github.com/KKshitiz/portfolio-v1/issues/5) in [KKshitiz/portfolio-v1](https://github.com/KKshitiz/portfolio-v1)
 <!--END_SECTION:activity-->
